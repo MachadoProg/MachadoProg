@@ -26,7 +26,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachadoProg&layout=compact&langs_count=7&theme=radical"/> 
   </center>
 </div>
-
-![snake gif](https://github.com/github.com/MachadoProg/blob/output/github-contribution-grid-snake(1).svg)
-
-![snake gif](https://github.com/github.com/MachadoProg/blob/output/github-contribution-grid-snake(1).gif)
