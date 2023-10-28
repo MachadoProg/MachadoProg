@@ -18,7 +18,7 @@
 
 ## GitHub Stats ⚡
 <div>
-  <a href="https://github.com/Gabrielle-Ribeiro">
+  <a href="https://github.com/MachadoProg">
   <center>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MachadoProg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
   </center>
